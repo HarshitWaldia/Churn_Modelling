@@ -48,6 +48,8 @@ To replicate the analysis, follow these steps:
 1. Clone this repository to your local machine.
 2. Install the required dependencies listed in `requirements.txt`.
 3. Run the Jupyter notebook `Churn_Modelling_Prediction.ipynb` to execute the code and follow the step-by-step analysis.
+4. To install all the necessary files and libraries required to run this script, please execute the following command : pip install -r requirements.txt 
+
 
 ## Results
 The results of the analysis, including model performance metrics and insights gained from EDA, can be found within the Jupyter notebook.
